@@ -1,5 +1,5 @@
 # Hunidir La Flota
-Hemos programado el famoso juego de hundir la flota con python.
+Humilde y rapida recreación del popular juego Hundir la flota
 Librerias usadas: Numpy
 
  
